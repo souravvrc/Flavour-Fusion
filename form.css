@@ -1,0 +1,28 @@
+.container{
+    padding: 10px;
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: #333;
+    color: #fff;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+form label{
+    font-size: 25px;
+    margin: auto;
+}
+form input{
+    padding: 8px;
+}
+form select{
+    padding: 8px;
+}
+form button{
+    padding: 8px;
+    background-color: #3498db;
+    border: none;
+}
+
